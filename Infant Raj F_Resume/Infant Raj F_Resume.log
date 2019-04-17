@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.15)  17 APR 2019 21:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.15)  17 APR 2019 22:00
 entering extended mode
 **"./Infant Raj F_Resume.tex"
 ("Infant Raj F_Resume.tex"
@@ -250,8 +250,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
  [1
 
 {C:/Users/INFANT/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Infantra
-j.jpg>] [2]
-("Infant Raj F_Resume.aux") ) 
+j.jpg>]
+Overfull \hbox (7.67157pt too wide) in paragraph at lines 99--100
+\OT1/cmr/bx/n/14.4 trolled Au-to-matic Fan Reg-u-la-tor \OT1/cmr/m/n/14.4 con-d
+ucted by AM-BERZ' as-so-ci-a-tion, Knowl-
+ []
+
+[2] ("Infant Raj F_Resume.aux") ) 
 Here is how much of TeX's memory you used:
  2531 strings out of 492945
  34047 string characters out of 3140802
@@ -260,12 +265,12 @@ Here is how much of TeX's memory you used:
  7844 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,35p,290b,307s stack positions out of 5000i,500n,10000p,200000b,50000s
-<F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cm
-bx12.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/Basic Mi
-kTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/Basic MikTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb>
-Output written on "Infant Raj F_Resume.pdf" (2 pages, 135965 bytes).
+<F:/Basic MikTeX/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/Basi
+c MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/Basic MikTeX/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cms
+y10.pfb>
+Output written on "Infant Raj F_Resume.pdf" (2 pages, 138358 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
