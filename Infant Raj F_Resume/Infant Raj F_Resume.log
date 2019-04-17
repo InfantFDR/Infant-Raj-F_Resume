@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.15)  17 APR 2019 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.15)  17 APR 2019 22:09
 entering extended mode
 **"./Infant Raj F_Resume.tex"
 ("Infant Raj F_Resume.tex"
@@ -71,14 +71,60 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-("F:\Basic MikTeX\tex/latex/wrapfig\wrapfig.sty"
-\wrapoverhang=\dimen113
-\WF@size=\dimen114
-\c@WF@wrappedlines=\count91
-\WF@box=\box27
-\WF@everypar=\toks16
-Package: wrapfig 2003/01/31  v 3.6
+("F:\Basic MikTeX\tex/latex/adjustbox\adjustbox.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("F:\Basic MikTeX\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("F:\Basic MikTeX\tex/generic/xkeyval\xkeyval.tex"
+("F:\Basic MikTeX\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
 )
+\XKV@depth=\count91
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("F:\Basic MikTeX\tex/latex/adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("F:\Basic MikTeX\tex/latex/adjustbox\trimclip.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("F:\Basic MikTeX\tex/latex/collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box27
+)
+\tc@llx=\dimen113
+\tc@lly=\dimen114
+\tc@urx=\dimen115
+\tc@ury=\dimen116
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("F:\Basic MikTeX\tex/latex/adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen117
+\adjbox@Height=\dimen118
+\adjbox@Depth=\dimen119
+\adjbox@Totalheight=\dimen120
+\adjbox@pwidth=\dimen121
+\adjbox@pheight=\dimen122
+\adjbox@pdepth=\dimen123
+\adjbox@ptotalheight=\dimen124
+
+("F:\Basic MikTeX\tex/latex/ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count92
+)
+("F:\Basic MikTeX\tex/latex/varwidth\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box28
+\sift@deathcycles=\count93
+\@vwid@loff=\dimen125
+\@vwid@roff=\dimen126
+))
 ("F:\Basic MikTeX\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -98,28 +144,64 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 ("F:\Basic MikTeX\tex/latex/tools\array.sty"
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen115
-\ar@mcellbox=\box28
-\extrarowheight=\dimen116
-\NC@list=\toks17
+\col@sep=\dimen127
+\ar@mcellbox=\box29
+\extrarowheight=\dimen128
+\NC@list=\toks18
 \extratabsurround=\skip43
 \backup@length=\skip44
-\ar@cellbox=\box29
-) ("Infant Raj F_Resume.aux")
+\ar@cellbox=\box30
+)
+("F:\Basic MikTeX\tex/latex/wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen129
+\WF@size=\dimen130
+\c@WF@wrappedlines=\count94
+\WF@box=\box31
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+("F:\Basic MikTeX\tex/generic/babel\babel.sty"
+Package: babel 2019/04/01 3.28 The Babel package
+
+("F:\Basic MikTeX\tex/generic/babel\switch.def"
+File: switch.def 2019/04/01 3.28 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("F:\Basic MikTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("F:\Basic MikTeX\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("F:\Basic MikTeX\tex/generic/babel\babel.def"
+File: babel.def 2019/04/01 3.28 Babel common definitions
+\babel@savecnt=\count95
+\U@D=\dimen131
+
+("F:\Basic MikTeX\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count96
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) ("Infant Raj F_Resume.aux")
 \openout1 = `"Infant Raj F_Resume.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -157,17 +239,17 @@ LaTeX Font Info:    ... okay on input line 11.
 
 ("F:\Basic MikTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count92
-\scratchdimen=\dimen117
-\scratchbox=\box30
-\nofMPsegments=\count93
-\nofMParguments=\count94
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count95
-\MPscratchDim=\dimen118
-\MPnumerator=\count96
-\makeMPintoPDFobject=\count97
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count97
+\scratchdimen=\dimen132
+\scratchbox=\box32
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen133
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks21
 ) ("F:\Basic MikTeX\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -214,80 +296,58 @@ G,.JBIG2,.JB2,.eps]
 <Infantraj.jpg, id=1, 96.1191pt x 129.00195pt>
 File: Infantraj.jpg Graphic file (type jpg)
 <use Infantraj.jpg>
-Package pdftex.def Info: Infantraj.jpg  used on input line 15.
+Package pdftex.def Info: Infantraj.jpg  used on input line 18.
 (pdftex.def)             Requested size: 60.0pt x 80.52759pt.
 
-Overfull \hbox (3.0945pt too wide) in paragraph at lines 15--16
+Overfull \hbox (3.0945pt too wide) in paragraph at lines 18--19
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
+(Font)              <5> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
+(Font)              <12> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
+(Font)              <8> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 41.
+(Font)              <6> on input line 45.
 
-Overfull \hbox (2.48418pt too wide) in paragraph at lines 30--43
+Overfull \hbox (2.48418pt too wide) in paragraph at lines 34--47
  [] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
 ("F:\Basic MikTeX\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
  [1
 
 {C:/Users/INFANT/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Infantra
-j.jpg>]
-Overfull \hbox (7.67157pt too wide) in paragraph at lines 99--100
-\OT1/cmr/bx/n/14.4 trolled Au-to-matic Fan Reg-u-la-tor \OT1/cmr/m/n/14.4 con-d
-ucted by AM-BERZ' as-so-ci-a-tion, Knowl-
- []
-
-[2]
-Overfull \hbox (11.76524pt too wide) in paragraph at lines 106--107
-[]\OT1/cmr/m/n/14.4 Attended One Day Work-shop ti-tled on \OT1/cmr/bx/n/14.4 PL
-C and SCADA \OT1/cmr/m/n/14.4 con-ducted at Karpagam
- []
-
-
-Overfull \hbox (9.75514pt too wide) in paragraph at lines 107--108
-[]\OT1/cmr/m/n/14.4 Attended One Day Work-shop ti-tled on \OT1/cmr/bx/n/14.4 IO
-T us-ing Ar-duino Nano and ESP8266
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--118
-
- []
-
-[3] ("Infant Raj F_Resume.aux") ) 
+j.jpg>] [2] [3]
+("Infant Raj F_Resume.aux") ) 
 Here is how much of TeX's memory you used:
- 2531 strings out of 492945
- 34047 string characters out of 3140802
- 114388 words of memory out of 3000000
- 6409 multiletter control sequences out of 15000+200000
+ 4067 strings out of 492945
+ 57237 string characters out of 3140802
+ 148522 words of memory out of 3000000
+ 7893 multiletter control sequences out of 15000+200000
  7844 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,35p,290b,307s stack positions out of 5000i,500n,10000p,200000b,50000s
-<F:/Basic MikTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/Basi
-c MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/Basic MikTeX/fonts/type1/
-public/amsfonts/cm/cmr8.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cms
-y10.pfb>
-Output written on "Infant Raj F_Resume.pdf" (3 pages, 141605 bytes).
+ 41i,13n,37p,290b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+<F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cm
+bx12.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/Basic Mi
+kTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><F:/Basic MikTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb><F:/Basic MikTeX/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb>
+Output written on "Infant Raj F_Resume.pdf" (3 pages, 141371 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
